@@ -1,0 +1,15 @@
+Comment,Designator,Footprint,LCSC
+27k,R5,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C22967
+25,R6,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C23345
+4.7uF,"C2,C3,C4",CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal,C23733
+10k,"R1,R4",R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C25744
+3.3k,R2,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C25890
+2k,R3,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C4109
+SPPJ222200,S1,SW_SPPJ222200,C470389
+~,"U1,U2",SOIC127P599X175-9N,C545417
+~,MCP73831-2DCI/MC1,SON50P200X300X100-9N,C635037
+Jumper_2_Open,JP5,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,
+Jumper_2_Open,JP1,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,
+Jumper_2_Bridged,JP2,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,
+Jumper_2_Open,JP4,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,
+Jumper_2_Bridged,JP3,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,

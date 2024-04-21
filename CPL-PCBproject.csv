@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C2,4.7uF,CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal,86.2575,-78.0,-90.0,top
+C3,4.7uF,CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal,125.5,-87.7575,180.0,top
+C4,4.7uF,CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal,122.2425,-73.5,90.0,top
+MCP73831-2DCI/MC1,~,SON50P200X300X100-9N,115.5,-95.5,180.0,top
+R1,10k,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,129.0,-78.955,90.0,top
+R2,3.3k,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,129.5,-67.55,90.0,top
+R3,2k,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,113.5,-88.645,90.0,top
+R4,10k,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,89.5,-64.955,90.0,top
+R5,27k,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,85.0,-64.955,90.0,top
+R6,25,R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,88.4,-89.55,180.0,top
+S1,SPPJ222200,SW_SPPJ222200,97.775,-82.5,-90.0,top
+U1,~,SOIC127P599X175-9N,107.865,-93.47,90.0,top
+U2,~,SOIC127P599X175-9N,109.365,-80.97,90.0,top
